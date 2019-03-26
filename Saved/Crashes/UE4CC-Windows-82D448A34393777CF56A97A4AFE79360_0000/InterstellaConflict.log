@@ -1,0 +1,925 @@
+﻿Log file open, 01/16/19 10:52:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: InterstellaConflict
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1219861682) SRandInit(-1219861682).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.533210
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.758s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am C-02431 (10.9.70.74:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epicusername="Hattimus" -epicuserid=42378c112f7d440b8c73533a9704a792 -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.16-10.52.18:437][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.16-10.52.18:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.16-10.52.18:555][  0]LogInit: Computer: C-02431
+[2019.01.16-10.52.18:555][  0]LogInit: User: 1800915
+[2019.01.16-10.52.18:555][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.16-10.52.18:555][  0]LogInit: High frequency timer resolution =3.410068 MHz
+[2019.01.16-10.52.18:555][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.01.16-10.52.18:555][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.16-10.52.18:555][  0]LogMemory: Process Physical Memory: 278.55 MB used, 278.55 MB peak
+[2019.01.16-10.52.18:555][  0]LogMemory: Process Virtual Memory: 273.27 MB used, 273.27 MB peak
+[2019.01.16-10.52.18:555][  0]LogMemory: Physical Memory: 8921.28 MB used,  23768.82 MB free, 32690.10 MB total
+[2019.01.16-10.52.18:555][  0]LogMemory: Virtual Memory: 703.68 MB used,  23768.82 MB free, 134217728.00 MB total
+[2019.01.16-10.52.18:594][  0]LogInit: Using OS detected language (en-GB).
+[2019.01.16-10.52.18:594][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.16-10.52.18:602][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.01.16-10.52.19:049][  0]LogStreaming: Display: Took  0.455s to EndInitTextLocalization.
+[2019.01.16-10.52.19:050][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.16-10.52.19:133][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.16-10.52.19:133][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.16-10.52.19:599][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.16-10.52.19:699][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.01.16-10.52.19:699][  0]LogD3D11RHI:       8079/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.16-10.52.19:703][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.16-10.52.19:703][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.16-10.52.19:703][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.16-10.52.19:714][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.16-10.52.19:714][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.16-10.52.19:714][  0]LogWindows: EnumDisplayDevices:
+[2019.01.16-10.52.19:714][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.01.16-10.52.19:714][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.16-10.52.19:715][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.16-10.52.19:715][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.16-10.52.19:715][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.16-10.52.19:715][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.01.16-10.52.19:715][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.16-10.52.19:715][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.16-10.52.19:715][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.01.16-10.52.19:775][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.01.16-10.52.19:775][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.01.16-10.52.19:775][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.16-10.52.19:794][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.16-10.52.19:840][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Intermediate/Shaders/WorkingDirectory/20208/).
+[2019.01.16-10.52.19:840][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1800915/AppData/Local/Temp/UnrealShaderWorkingDir/C5A672F74273C79258E98CB55D2E8450/'.
+[2019.01.16-10.52.20:175][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.16-10.52.20:196][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.16-10.52.20:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.16-10.52.20:282][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.16-10.52.20:344][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.16-10.52.20:371][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.16-10.52.20:455][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.16-10.52.20:500][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.16-10.52.20:511][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.16-10.52.20:599][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.16-10.52.20:617][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.16-10.52.20:641][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.16-10.52.20:658][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.01.16-10.52.20:675][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.16-10.52.20:693][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.16-10.52.20:801][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.16-10.52.20:801][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.16-10.52.20:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.16-10.52.20:844][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.16-10.52.20:913][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.16-10.52.20:956][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.16-10.52.20:974][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.16-10.52.20:992][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.16-10.52.21:009][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.16-10.52.21:063][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.16-10.52.21:063][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.16-10.52.21:224][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.16-10.52.21:224][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.16-10.52.21:224][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.16-10.52.22:219][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.16-10.52.22:302][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.16-10.52.22:302][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.01.16-10.52.22:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.16-10.52.22:303][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.16-10.52.22:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.16-10.52.22:304][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.16-10.52.22:350][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.16-10.52.22:366][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1800915/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.16-10.52.22:366][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.16-10.52.22:366][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.16-10.52.22:381][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.16-10.52.22:382][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.16-10.52.22:383][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.16-10.52.22:383][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.16-10.52.22:618][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2019.01.16-10.52.23:759][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.16-10.52.23:952][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.16-10.52.23:956][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.16-10.52.23:956][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.16-10.52.23:956][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.16-10.52.23:956][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.16-10.52.23:956][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.16-10.52.24:012][  0]LogNetVersion: InterstellaConflict , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059501445)
+[2019.01.16-10.52.26:276][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 1.590419 seconds
+[2019.01.16-10.52.26:288][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.01.16-10.52.26:288][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.01.16-10.52.26:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.16-10.52.28:878][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.16-10.52.28:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.16-10.52.28:931][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.29:837][  0]SourceControl: Source control is disabled
+[2019.01.16-10.52.32:639][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.16-10.52.32:950][  0]LogOcInput: OculusInput pre-init called
+[2019.01.16-10.52.33:141][  0]LogEngine: Initializing Engine...
+[2019.01.16-10.52.33:143][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.16-10.52.33:151][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.16-10.52.33:151][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.16-10.52.33:373][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.16-10.52.33:440][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-10.52.33:488][  0]LogInit: FAudioDevice initialized.
+[2019.01.16-10.52.33:582][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.16-10.52.33:594][  0]LogInit: Texture streaming: Enabled
+[2019.01.16-10.52.33:613][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.16-10.52.33:633][  0]LogInit: Transaction tracking system initialized
+[2019.01.16-10.52.33:656][  0]BlueprintLog: New page: Editor Load
+[2019.01.16-10.52.33:772][  0]LocalizationService: Localization service is disabled
+[2019.01.16-10.52.33:954][  0]LogConsoleResponse: Display: 
+[2019.01.16-10.52.34:162][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.16-10.52.34:162][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.16-10.52.34:162][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.16-10.52.34:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.16-10.52.34:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.16-10.52.34:767][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' took 0.04s
+[2019.01.16-10.52.34:838][  0]Cmd: MAP LOAD FILE="//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.16-10.52.34:844][  0]LightingResults: New page: Lighting Build
+[2019.01.16-10.52.34:846][  0]MapCheck: New page: Map Check
+[2019.01.16-10.52.34:846][  0]LightingResults: New page: Lighting Build
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2019.01.16-10.52.36:352][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2019.01.16-10.52.36:352][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2019.01.16-10.52.36:352][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:466][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2019.01.16-10.52.36:466][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 64X64)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:853][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 64X64)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2019.01.16-10.52.36:854][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2019.01.16-10.52.36:859][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.01.16-10.52.36:861][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2019.01.16-10.52.36:861][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 128X64)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 64X32)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.01.16-10.52.37:305][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 128X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 32X32)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2019.01.16-10.52.37:306][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.01.16-10.52.37:424][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.16-10.52.37:475][  0]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.16-10.52.37:476][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.01.16-10.52.37:556][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.16-10.52.37:570][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-10.52.37:582][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.16-10.52.37:596][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.16-10.52.37:794][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.473ms to complete.
+[2019.01.16-10.52.37:794][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.956
+[2019.01.16-10.52.37:977][  0]LogCollectionManager: Loaded 0 collections in 0.003864 seconds
+[2019.01.16-10.52.38:025][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' took 0.01s
+[2019.01.16-10.52.38:025][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' took 0.01s
+[2019.01.16-10.52.38:025][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' took 0.01s
+[2019.01.16-10.52.38:025][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.16-10.52.38:039][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2452 classes and 558 folders.
+[2019.01.16-10.52.38:052][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.16-10.52.38:184][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.16-10.52.38:189][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.16-10.52.38:263][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.16-10.52.38:265][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.16-10.52.38:272][  0]LogSlate: Took 0.001229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.16-10.52.38:395][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.01.16-10.52.38:619][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-10.52.38:656][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.16-10.52.38:708][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.16-10.52.38:708][  0]LogLoad: (Engine Initialization) Total time: 27.61 seconds
+[2019.01.16-10.52.38:708][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.16-10.52.39:063][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:064][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/', and we were unable to create a new request.
+[2019.01.16-10.52.39:064][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:064][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:064][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:069][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.16-10.52.39:403][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:404][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/', and we were unable to create a new request.
+[2019.01.16-10.52.39:404][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:409][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/', and we were unable to create a new request.
+[2019.01.16-10.52.39:409][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.16-10.52.39:410][  1]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/', and we were unable to create a new request.
+[2019.01.16-10.52.39:729][  2]LogAssetRegistry: Asset discovery search completed in 17.1341 seconds
+[2019.01.16-10.52.39:733][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.16-10.52.39:733][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2019.01.16-10.52.40:077][  3]LogSlate: Took 0.001434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.16-10.52.40:729][  6]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.01.16-10.52.41:075][  7]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.01.16-10.52.41:075][  7]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.01.16-10.52.41:075][  7]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.01.16-10.52.41:396][  8]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.16-10.52.41:729][  9]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.16-10.52.42:397][ 11]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.16-10.52.42:397][ 11]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.16-10.52.42:730][ 12]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.16-10.52.43:063][ 13]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.16-10.52.43:064][ 13]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.16-10.52.43:762][ 15]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.16-10.52.44:427][ 17]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.16-10.52.44:427][ 17]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.16-10.52.44:427][ 17]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.16-10.52.45:100][ 19]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.16-10.52.45:413][ 20]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.16-10.57.05:657][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-10.57.05:795][312]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:516).
+[2019.01.16-10.57.05:848][313]LogRenderer: Reallocating scene render targets to support 1616x844 Format 10 NumSamples 1 (Frame:518).
+[2019.01.16-10.57.05:898][314]LogRenderer: Reallocating scene render targets to support 1616x908 Format 10 NumSamples 1 (Frame:520).
+[2019.01.16-10.57.05:940][315]LogRenderer: Reallocating scene render targets to support 1616x952 Format 10 NumSamples 1 (Frame:522).
+[2019.01.16-10.57.05:990][316]LogRenderer: Reallocating scene render targets to support 1616x956 Format 10 NumSamples 1 (Frame:524).
+[2019.01.16-10.57.06:673][391]LogRenderer: Reallocating scene render targets to support 1624x956 Format 10 NumSamples 1 (Frame:577).
+[2019.01.16-10.57.06:727][392]LogRenderer: Reallocating scene render targets to support 1692x956 Format 10 NumSamples 1 (Frame:579).
+[2019.01.16-10.57.06:783][393]LogRenderer: Reallocating scene render targets to support 1748x956 Format 10 NumSamples 1 (Frame:581).
+[2019.01.16-10.57.06:823][394]LogRenderer: Reallocating scene render targets to support 1752x956 Format 10 NumSamples 1 (Frame:583).
+[2019.01.16-10.57.11:890][974]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-10.57.12:145][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-10.57.12:146][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-10.57.12:147][974]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 10:57:12)
+[2019.01.16-10.57.12:148][974]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-10.57.12:197][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049722s)
+[2019.01.16-10.57.12:199][974]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-10.57.12:199][974]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.01.16-10.57.12:199][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051307s)
+[2019.01.16-10.57.12:227][974]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-10.57.12:261][974]LogInit: FAudioDevice initialized.
+[2019.01.16-10.57.13:215][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1016e1d00, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.16-10.57.13:490][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a10b203d78, Size=4, Default__Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.16-10.57.13:598][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a10ad49580, Size=80, Default__Weapon_Base_C Function /Game/AnimStarterPack/Weapon/DC-15A/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2019.01.16-10.57.13:606][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101693d80, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.16-10.57.13:665][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a10b203d78, Size=4
+[2019.01.16-10.57.13:665][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a10b203d78, Size=4, Default__Projectile_Base_C Function /Engine/Transient.REINST_Projectile_Base_C_5:ExecuteUbergraph_Projectile_Base
+[2019.01.16-10.57.13:667][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a101693d80, Size=304
+[2019.01.16-10.57.13:667][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101ee2840, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Engine/Transient.REINST_UE4ASP_HeroTPP_AnimBlueprint_C_0:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.16-10.57.13:667][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a10ad49580, Size=80
+[2019.01.16-10.57.13:667][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101e94810, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_6:ExecuteUbergraph_Weapon_Base
+[2019.01.16-10.57.13:668][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1016e1d00, Size=1104
+[2019.01.16-10.57.13:668][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101e02b00, Size=1104, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_7:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.16-10.57.13:710][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a11e8c3bb8, Size=4, Default__Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.16-10.57.13:713][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101cd0900, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.16-10.57.13:715][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101ab0220, Size=80, Default__Weapon_Base_C Function /Game/AnimStarterPack/Weapon/DC-15A/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2019.01.16-10.57.13:718][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101adc800, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.16-10.57.13:767][974]LogMaterial: Missing cached shader map for material t_dc15_01_cs, compiling. 
+[2019.01.16-10.57.13:784][974]LogTexture: Display: Building textures: T_SmallWaves_N (BC5, 512X512)
+[2019.01.16-10.57.13:784][974]LogSkeletalMesh: Building Skeletal Mesh DC-15A_UE4...
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.16-10.57.13:798][974]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.16-10.57.13:798][974]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/AnimStarterPack/Weapon/DC-15A/DC-15A_UE4.DC-15A_UE4
+[2019.01.16-10.57.13:944][974]LogTexture: Display: Building textures: T_MediumWaves_N (BC5, 1024X1024)
+[2019.01.16-10.57.13:945][974]LogTexture: Display: Building textures: T_MediumWaves_H (G8, 1024X1024)
+[2019.01.16-10.57.13:945][974]LogMaterial: Missing cached shader map for material M_LakeWater_01, compiling. 
+[2019.01.16-10.57.13:981][974]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.16-10.57.13:981][974]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.16-10.57.13:981][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2019.01.16-10.57.13:981][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:982][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/ironsight_Right_Up.ironsight_Right_Up
+[2019.01.16-10.57.13:982][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/ironsight_Right_Up.ironsight_Right_Up) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:983][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2019.01.16-10.57.13:983][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:984][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2019.01.16-10.57.13:984][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:985][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2019.01.16-10.57.13:985][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:986][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right.Ironsight_Right
+[2019.01.16-10.57.13:986][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right.Ironsight_Right) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:987][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_up.Ironsight_left_up
+[2019.01.16-10.57.13:987][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_up.Ironsight_left_up) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.13:987][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right_Down.Ironsight_Right_Down
+[2019.01.16-10.57.13:988][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right_Down.Ironsight_Right_Down) using current/default (AnimCompress_BitwiseCompressOnly_62) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:045][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Up.Aim_Right_Up
+[2019.01.16-10.57.14:045][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Up.Aim_Right_Up) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:045][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center_Down.Ironsight_Center_Down
+[2019.01.16-10.57.14:045][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center_Down.Ironsight_Center_Down) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:046][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2019.01.16-10.57.14:046][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:049][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center.Ironsight_Center
+[2019.01.16-10.57.14:049][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center.Ironsight_Center) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:050][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2019.01.16-10.57.14:050][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:052][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.01.16-10.57.14:052][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:054][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.01.16-10.57.14:054][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:056][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.01.16-10.57.14:056][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:058][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.01.16-10.57.14:058][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:087][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center_Down.Aim_Center_Down
+[2019.01.16-10.57.14:087][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center_Down.Aim_Center_Down) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:088][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Center.Aim_Left_Center
+[2019.01.16-10.57.14:088][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Center.Aim_Left_Center) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:088][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center_Up.Aim_Center_Up
+[2019.01.16-10.57.14:088][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center_Up.Aim_Center_Up) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:089][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2019.01.16-10.57.14:089][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:091][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2019.01.16-10.57.14:091][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:092][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2019.01.16-10.57.14:093][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:094][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.01.16-10.57.14:094][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:095][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_down.Ironsight_left_down
+[2019.01.16-10.57.14:095][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_down.Ironsight_left_down) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:096][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Left.Ironsight_Left
+[2019.01.16-10.57.14:096][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Left.Ironsight_Left) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:097][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center_Up.Ironsight_Center_Up
+[2019.01.16-10.57.14:097][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center_Up.Ironsight_Center_Up) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:097][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Center.Aim_Right_Center
+[2019.01.16-10.57.14:098][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Center.Aim_Right_Center) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:098][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Down.Aim_Right_Down
+[2019.01.16-10.57.14:099][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Down.Aim_Right_Down) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:100][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2019.01.16-10.57.14:100][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:103][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2019.01.16-10.57.14:103][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:105][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Down.Aim_Left_Down
+[2019.01.16-10.57.14:105][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Down.Aim_Left_Down) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:105][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Up.Aim_Left_Up
+[2019.01.16-10.57.14:105][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Left_Up.Aim_Left_Up) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:106][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2019.01.16-10.57.14:106][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:109][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center.Aim_Center
+[2019.01.16-10.57.14:109][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Center.Aim_Center) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:110][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2019.01.16-10.57.14:110][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:111][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2019.01.16-10.57.14:111][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:112][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2019.01.16-10.57.14:112][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:113][974]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2019.01.16-10.57.14:114][974]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.16-10.57.14:116][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-10.57.14:120][974]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-10.57.14
+[2019.01.16-10.57.14:120][974]LogWorld: Bringing up level for play took: 0.002458
+[2019.01.16-10.57.14:125][974]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2019.01.16-10.57.14:128][974]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.061
+[2019.01.16-10.57.14:128][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-10.57.16:454][176]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.16-10.57.16:724][200]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.16-10.57.46:309][681]LogCharacter: Ue4ASP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2019.01.16-10.58.13:008][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a101e94810, Size=80
+[2019.01.16-10.58.13:008][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a10b203d78, Size=4
+[2019.01.16-10.58.13:008][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a101e02b00, Size=1104
+[2019.01.16-10.58.13:008][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a101ee2840, Size=304
+[2019.01.16-11.01.37:565][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.01.37:604][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.01.46:035][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.01.46:891][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.02.13:967][627]LogRenderer: Reallocating scene render targets to support 1752x980 Format 10 NumSamples 1 (Frame:5077).
+[2019.01.16-11.02.14:027][628]LogRenderer: Reallocating scene render targets to support 1752x988 Format 10 NumSamples 1 (Frame:5079).
+[2019.01.16-11.02.20:503][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.03.52:562][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.05.49:864][353]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.16-11.06.03:704][874]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2019.01.16-11.06.04:008][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1829f9d90, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.16-11.06.04:008][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1829f9d88, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.16-11.06.05:995][969]LogRenderer: Reallocating scene render targets to support 1752x1260 Format 10 NumSamples 1 (Frame:97).
+[2019.01.16-11.06.08:923][190]LogSlate: Took 0.003159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.16-11.06.09:508][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.06.43:281][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.07.23:073][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.07.33:365][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-11.07.33:377][501]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.16-11.07.38:546][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-11.07.46:674][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.08.02:571][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.08.21:172][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.08.21:233][  9]BlueprintLog: New page: Compile EnemyNPC
+[2019.01.16-11.08.26:064][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.08.35:322][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.08.35:332][498]LogSlate: Took 0.006794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.16-11.09.28:039][ 35]BlueprintLog: New page: Compile EnemyNPC
+[2019.01.16-11.09.28:044][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1b3a8e2c0, Size=4, Default__EnemyNPC_C Function /Game/NPC/EnemyNPC.EnemyNPC_C:ExecuteUbergraph_EnemyNPC
+[2019.01.16-11.09.30:172][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-11.09.30:403][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.30:404][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-11.09.30:404][239]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 11:09:30)
+[2019.01.16-11.09.30:404][239]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-11.09.30:436][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031196s)
+[2019.01.16-11.09.30:437][239]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-11.09.30:437][239]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2019.01.16-11.09.30:437][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032600s)
+[2019.01.16-11.09.30:524][239]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-11.09.30:551][239]LogInit: FAudioDevice initialized.
+[2019.01.16-11.09.30:583][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-11.09.30:585][239]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-11.09.30
+[2019.01.16-11.09.30:586][239]LogWorld: Bringing up level for play took: 0.002136
+[2019.01.16-11.09.30:588][239]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.516
+[2019.01.16-11.09.30:588][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.32:264][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.32:300][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.34:556][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.09.37:608][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.09.41:940][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.09.42:014][337]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-11.09.42:080][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.42:081][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-11.09.42:081][337]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 11:09:42)
+[2019.01.16-11.09.42:081][337]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-11.09.42:105][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024103s)
+[2019.01.16-11.09.42:106][337]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-11.09.42:106][337]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2019.01.16-11.09.42:106][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025185s)
+[2019.01.16-11.09.42:150][337]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-11.09.42:175][337]LogInit: FAudioDevice initialized.
+[2019.01.16-11.09.42:212][337]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-11.09.42:215][337]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-11.09.42
+[2019.01.16-11.09.42:216][337]LogWorld: Bringing up level for play took: 0.002881
+[2019.01.16-11.09.42:218][337]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:None controlling Pawn:NULL with goal actor None (if any of these is None then there's your problem
+[2019.01.16-11.09.42:218][337]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.146
+[2019.01.16-11.09.42:218][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.46:868][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.46:904][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-11.09.48:019][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-11.11.05:543][721]BlueprintLog: New page: Compile EnemyNPC
+[2019.01.16-11.11.05:548][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1b3a8e2c0, Size=4
+[2019.01.16-11.11.05:548][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1c89d7720, Size=4, EnemyNPC_C_5 Function /Engine/Transient.REINST_EnemyNPC_C_38:ExecuteUbergraph_EnemyNPC
+[2019.01.16-11.11.05:550][721]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1c89d75c8, Size=8, Default__EnemyNPC_C Function /Game/NPC/EnemyNPC.EnemyNPC_C:ExecuteUbergraph_EnemyNPC
+[2019.01.16-11.11.54:502][609]BlueprintLog: New page: Compile EnemyNPC
+[2019.01.16-11.11.54:505][609]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1c89d75c8, Size=8
+[2019.01.16-11.11.54:505][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1c1976db8, Size=8, EnemyNPC_C_7 Function /Engine/Transient.REINST_EnemyNPC_C_42:ExecuteUbergraph_EnemyNPC
+[2019.01.16-11.11.54:507][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1c1976f68, Size=8, Default__EnemyNPC_C Function /Game/NPC/EnemyNPC.EnemyNPC_C:ExecuteUbergraph_EnemyNPC
+[2019.01.16-11.13.10:639][840]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1c1976db8, Size=8
+[2019.01.16-11.13.18:956][840]LogSavePackage: Save=7594.38ms
+[2019.01.16-11.13.18:956][840]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/ThirdPersonExampleMap_Auto189A654BF42952A143F2F84BA86DDAFDF.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.01.16-11.13.19:136][840]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2019.01.16-11.13.19:170][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 8.556
+[2019.01.16-11.13.19:170][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.556
+[2019.01.16-11.13.19:211][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NPC/EnemyNPC] ([1] browsable assets)...
+[2019.01.16-11.13.19:248][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NPC/EnemyNPC.EnemyNPC]
+[2019.01.16-11.13.19:248][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/EnemyNPC]
+[2019.01.16-11.13.19:893][840]LogSavePackage: Save=613.65ms
+[2019.01.16-11.13.19:893][840]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/EnemyNPC_Auto176BE4F214819CF573AA88592CC038B77.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/NPC/EnemyNPC_Auto1.uasset'
+[2019.01.16-11.13.19:916][840]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/NPC/EnemyNPC_Auto1.uasset
+[2019.01.16-11.13.19:916][840]LogFileHelpers: Auto-saving content packages took 0.741
+[2019.01.16-11.14.00:290][374]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fb005ed8, Size=4, Default__SKEL_Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.SKEL_Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.14.05:135][812]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fb005ed8, Size=4
+[2019.01.16-11.14.05:135][812]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fb005ed8, Size=4, Default__SKEL_Projectile_Base_C Function /Engine/Transient.REINST_SKEL_Projectile_Base_C_50:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.14.05:136][812]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fb005a50, Size=4, Default__SKEL_Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.SKEL_Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.15.01:521][944]BlueprintLog: New page: Compile Projectile_Base
+[2019.01.16-11.15.01:523][944]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fb005a50, Size=4
+[2019.01.16-11.15.01:523][944]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fcc35138, Size=4, Default__SKEL_Projectile_Base_C Function /Engine/Transient.REINST_SKEL_Projectile_Base_C_52:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.15.01:644][944]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a11e8c3bb8, Size=4
+[2019.01.16-11.15.01:644][944]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fcc35180, Size=4, Default__Projectile_Base_C Function /Engine/Transient.REINST_Projectile_Base_C_56:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.15.01:647][944]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a1fb004f88, Size=8, Default__Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.16-11.15.01:917][944]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fb005ed8, Size=4
+[2019.01.16-11.15.01:917][944]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fcc35138, Size=4
+[2019.01.16-11.23.21:846][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a1fcc35180, Size=4
+[2019.01.16-11.23.21:847][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.033
+[2019.01.16-11.23.21:856][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Weapon/Projectile_Base] ([1] browsable assets)...
+[2019.01.16-11.23.21:879][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base]
+[2019.01.16-11.23.21:879][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Weapon/Projectile_Base]
+[2019.01.16-11.23.22:830][614]LogSavePackage: Save=819.92ms
+[2019.01.16-11.23.22:830][614]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Projectile_Base_Auto2D58D374C45FDF7A0CE2CDDA6ABD41D01.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Weapon/Projectile_Base_Auto2.uasset'
+[2019.01.16-11.23.22:847][614]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Weapon/Projectile_Base_Auto2.uasset
+[2019.01.16-11.23.22:847][614]LogFileHelpers: Auto-saving content packages took 1.000
+[2019.01.16-11.36.18:497][648]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.01.16-11.36.18:811][648]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.16-11.36.18:817][648]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.01.16-11.36.19:252][648]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.16-11.36.19:706][648]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.01.16-11.38.29:407][  4]LogSavePackage: Save=30901.58ms
+[2019.01.16-11.38.29:407][  4]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/UE4ASP_HeroTPP_AnimBlueprint2A138E9A4322DFDC833CE39D1C3BECBF.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2019.01.16-11.38.29:573][  4]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset
+[2019.01.16-12.22.14:390][842]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-12.22.14:495][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.22.14:496][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-12.22.14:496][842]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 12:22:14)
+[2019.01.16-12.22.14:496][842]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-12.22.14:515][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018702s)
+[2019.01.16-12.22.14:515][842]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-12.22.14:516][842]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2019.01.16-12.22.14:516][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019878s)
+[2019.01.16-12.22.14:553][842]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-12.22.14:578][842]LogInit: FAudioDevice initialized.
+[2019.01.16-12.22.14:613][842]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-12.22.14:616][842]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-12.22.14
+[2019.01.16-12.22.14:617][842]LogWorld: Bringing up level for play took: 0.002859
+[2019.01.16-12.22.14:619][842]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.514
+[2019.01.16-12.22.14:619][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.22.34:769][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.22.34:808][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.22.44:252][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.22.47:612][448]LogEditorViewport: Clicking on Actor (LMB): EnemyNPC_C (EnemyNPC)
+[2019.01.16-12.22.50:308][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.22.52:433][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2019.01.16-12.22.52:529][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2019.01.16-12.23.04:149][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.23.14:292][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.23.19:349][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.24.23:289][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.24.40:640][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.24.42:123][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.24.42:217][778]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-12.24.42:288][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.24.42:289][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-12.24.42:289][778]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 12:24:42)
+[2019.01.16-12.24.42:289][778]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-12.24.42:313][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023678s)
+[2019.01.16-12.24.42:314][778]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-12.24.42:314][778]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.01.16-12.24.42:314][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024844s)
+[2019.01.16-12.24.42:346][778]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-12.24.42:372][778]LogInit: FAudioDevice initialized.
+[2019.01.16-12.24.42:407][778]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-12.24.42:411][778]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-12.24.42
+[2019.01.16-12.24.42:411][778]LogWorld: Bringing up level for play took: 0.003220
+[2019.01.16-12.24.42:414][778]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.307
+[2019.01.16-12.24.42:414][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.25.10:996][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-12.25.19:495][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-12.25.35:698][966]LogEditorViewport: Clicking on Actor (LMB): Weapon_Base_C (Weapon_Base)
+[2019.01.16-12.25.57:036][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.01.16-12.25.59:151][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.26.02:582][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.26.02:618][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.26.17:038][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.27.31:678][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.28.09:392][729]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.01.16-12.28.09:520][729]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a101adc800, Size=1104
+[2019.01.16-12.28.09:520][729]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a216b9eb00, Size=1104, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_61:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.16-12.28.09:550][729]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a101cadd00, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.16-12.28.12:412][906]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-12.28.12:497][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.12:498][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-12.28.12:498][906]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 12:28:12)
+[2019.01.16-12.28.12:498][906]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-12.28.12:518][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018939s)
+[2019.01.16-12.28.12:518][906]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-12.28.12:518][906]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2019.01.16-12.28.12:518][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019776s)
+[2019.01.16-12.28.12:589][906]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-12.28.12:613][906]LogInit: FAudioDevice initialized.
+[2019.01.16-12.28.12:647][906]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-12.28.12:650][906]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-12.28.12
+[2019.01.16-12.28.12:650][906]LogWorld: Bringing up level for play took: 0.002651
+[2019.01.16-12.28.12:652][906]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.544
+[2019.01.16-12.28.12:652][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.15:855][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.15:893][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.18:802][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.28.23:914][652]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.01.16-12.28.25:826][874]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-12.28.25:899][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.25:899][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-12.28.25:900][874]PIE: New page: PIE session: ThirdPersonExampleMap (16 Jan 2019 12:28:25)
+[2019.01.16-12.28.25:900][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.16-12.28.25:928][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028027s)
+[2019.01.16-12.28.25:929][874]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.16-12.28.25:929][874]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.01.16-12.28.25:929][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029010s)
+[2019.01.16-12.28.25:963][874]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-12.28.25:995][874]LogInit: FAudioDevice initialized.
+[2019.01.16-12.28.26:034][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.16-12.28.26:037][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.16-12.28.26
+[2019.01.16-12.28.26:037][874]LogWorld: Bringing up level for play took: 0.002688
+[2019.01.16-12.28.26:039][874]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.069
+[2019.01.16-12.28.26:040][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.35:814][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.35:855][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.16-12.28.39:285][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.29.05:677][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.29.31:155][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2019.01.16-12.29.31:245][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2019.01.16-12.29.35:869][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.29.57:586][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.30.07:999][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-12.31.49:658][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2019.01.16-12.31.49:666][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Ue4ASP_Character] ([1] browsable assets)...
+[2019.01.16-12.31.49:688][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character]
+[2019.01.16-12.31.49:688][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Ue4ASP_Character]
+[2019.01.16-12.31.57:288][949]LogSavePackage: Save=7501.91ms
+[2019.01.16-12.31.57:288][949]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Ue4ASP_Character_Auto3EEDA1CC14FD0242F9B9D5FB5713D2A35.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto3.uasset'
+[2019.01.16-12.31.57:450][949]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto3.uasset
+[2019.01.16-12.31.57:450][949]LogFileHelpers: Auto-saving content packages took 7.790
+[2019.01.16-12.37.14:640][214]LogUObjectArray: Warning: Other object in slot
+[2019.01.16-12.37.15:329][214]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.688 s
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: 
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: Stack: 
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000A8AEB706 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000A884AE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000A885ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000007BC73DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x0000000096F4B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000008B52C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000008B3B77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000008B3BAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000008B4F6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009AD66057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009AD6BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009AF9C253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009ADC0475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009AD98360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000009AD8B197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000C8FAE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000C8FA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000C8FB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000C8F9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000FAB4B85D USER32.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000FAB4B1EF USER32.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000C8FB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000000E155475 UE4Editor.exe!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000000E166BD0 UE4Editor.exe!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000000E166C4A UE4Editor.exe!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000000E174177 UE4Editor.exe!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x000000000E175B87 UE4Editor.exe!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000FCBD1FE4 KERNEL32.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: [Callstack] 0x00000000FCD3CB81 ntdll.dll!UnknownFunction []
+[2019.01.16-12.37.15:329][214]LogOutputDevice: Error: 
+[2019.01.16-12.37.15:346][214]LogStats:                SubmitErrorReport -  0.000 s

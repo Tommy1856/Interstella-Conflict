@@ -1,0 +1,885 @@
+﻿Log file open, 01/15/19 15:11:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: InterstellaConflict
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1317078653) SRandInit(1317078653).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.471499
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.950s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am C-02437 (10.9.70.72:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.016s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.15-15.11.53:393][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.15-15.11.53:393][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.15-15.11.53:551][  0]LogInit: Computer: C-02437
+[2019.01.15-15.11.53:551][  0]LogInit: User: 1800915
+[2019.01.15-15.11.53:551][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.15-15.11.53:551][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2019.01.15-15.11.53:551][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.01.15-15.11.53:551][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.15-15.11.53:551][  0]LogMemory: Process Physical Memory: 279.24 MB used, 279.24 MB peak
+[2019.01.15-15.11.53:551][  0]LogMemory: Process Virtual Memory: 277.35 MB used, 277.35 MB peak
+[2019.01.15-15.11.53:551][  0]LogMemory: Physical Memory: 6551.77 MB used,  26138.32 MB free, 32690.10 MB total
+[2019.01.15-15.11.53:551][  0]LogMemory: Virtual Memory: 707.68 MB used,  26138.32 MB free, 134217728.00 MB total
+[2019.01.15-15.11.53:710][  0]LogInit: Using OS detected language (en-GB).
+[2019.01.15-15.11.53:710][  0]LogInit: Using OS detected locale (en-GB).
+[2019.01.15-15.11.53:724][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.01.15-15.11.54:151][  0]LogStreaming: Display: Took  0.441s to EndInitTextLocalization.
+[2019.01.15-15.11.54:151][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.15-15.11.54:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.15-15.11.54:237][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.15-15.11.54:617][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.15-15.11.54:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.01.15-15.11.54:708][  0]LogD3D11RHI:       8079/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.15-15.11.54:712][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.15-15.11.54:712][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.15-15.11.54:712][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.15-15.11.54:720][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.15-15.11.54:720][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.15-15.11.54:720][  0]LogWindows: EnumDisplayDevices:
+[2019.01.15-15.11.54:720][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.01.15-15.11.54:720][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.15-15.11.54:721][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.15-15.11.54:721][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.01.15-15.11.54:721][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.15-15.11.54:721][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.01.15-15.11.54:721][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.15-15.11.54:721][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.15-15.11.54:721][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.01.15-15.11.54:769][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.01.15-15.11.54:769][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.01.15-15.11.54:769][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.15-15.11.54:787][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.15-15.11.54:829][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Intermediate/Shaders/WorkingDirectory/16892/).
+[2019.01.15-15.11.54:830][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1800915/AppData/Local/Temp/UnrealShaderWorkingDir/53C960E74CCFDA4F05EFA0A430DECD98/'.
+[2019.01.15-15.11.55:518][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.15-15.11.55:627][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.15-15.11.55:682][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.15-15.11.55:722][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.15-15.11.55:762][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.15-15.11.55:799][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.15-15.11.55:837][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.15-15.11.55:873][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.15-15.11.55:905][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.15-15.11.55:935][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.15-15.11.55:967][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.15-15.11.55:994][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.15-15.11.56:020][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.01.15-15.11.56:053][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.15-15.11.56:084][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.15-15.11.56:141][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.15-15.11.56:141][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.15-15.11.56:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.15-15.11.56:202][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.15-15.11.56:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.15-15.11.56:326][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.15-15.11.56:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.15-15.11.56:384][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.15-15.11.56:417][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.15-15.11.56:453][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.15-15.11.56:453][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.15-15.11.57:030][  0]LogXGEController: Cleaning working directory: C:/Users/1800915/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.15-15.11.57:030][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.15-15.11.57:030][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.15-15.11.57:031][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.15-15.11.57:980][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.15-15.11.58:055][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.15-15.11.58:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.01.15-15.11.58:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.15-15.11.58:055][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.15-15.11.58:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.15-15.11.58:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.15-15.11.58:084][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.15-15.11.58:097][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1800915/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.15-15.11.58:097][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.15-15.11.58:097][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.15-15.11.58:108][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.15-15.11.58:109][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.15-15.11.58:110][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.15-15.11.58:110][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.15-15.11.58:395][  0]LogAssetRegistry: FAssetRegistry took 0.0359 seconds to start up
+[2019.01.15-15.11.59:409][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.15-15.11.59:594][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.15-15.11.59:598][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.15-15.11.59:598][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.15-15.11.59:598][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.15-15.11.59:598][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.15-15.11.59:598][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.15-15.11.59:644][  0]LogNetVersion: InterstellaConflict , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059501445)
+[2019.01.15-15.12.02:212][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 1.914234 seconds
+[2019.01.15-15.12.02:224][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.01.15-15.12.02:224][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.01.15-15.12.02:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.15-15.12.04:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.15-15.12.04:649][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.15-15.12.04:649][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.05:326][  0]SourceControl: Source control is disabled
+[2019.01.15-15.12.08:443][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.15-15.12.08:746][  0]LogOcInput: OculusInput pre-init called
+[2019.01.15-15.12.08:920][  0]LogEngine: Initializing Engine...
+[2019.01.15-15.12.08:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.15-15.12.08:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.15-15.12.08:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.15-15.12.09:225][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.15-15.12.09:244][  0]LogInit: XAudio2 using 'DELL U2715H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-15.12.09:293][  0]LogInit: FAudioDevice initialized.
+[2019.01.15-15.12.09:386][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/1800915/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.01.15-15.12.09:397][  0]LogInit: Texture streaming: Enabled
+[2019.01.15-15.12.09:419][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.15-15.12.09:419][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B0159FB7-4F17-0F14-E1DB-158723C3AD48}
+[2019.01.15-15.12.09:439][  0]LogInit: Transaction tracking system initialized
+[2019.01.15-15.12.09:464][  0]BlueprintLog: New page: Editor Load
+[2019.01.15-15.12.09:634][  0]LocalizationService: Localization service is disabled
+[2019.01.15-15.12.09:812][  0]LogConsoleResponse: Display: 
+[2019.01.15-15.12.10:130][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.15-15.12.10:130][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.15-15.12.10:130][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.15-15.12.10:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.15-15.12.10:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.15-15.12.10:584][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' took 0.07s
+[2019.01.15-15.12.10:769][  0]Cmd: MAP LOAD FILE="//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.15-15.12.10:773][  0]LightingResults: New page: Lighting Build
+[2019.01.15-15.12.10:776][  0]MapCheck: New page: Map Check
+[2019.01.15-15.12.10:776][  0]LightingResults: New page: Lighting Build
+[2019.01.15-15.12.12:398][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.15-15.12.12:408][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.15-15.12.12:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.15-15.12.12:565][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 140.968ms to complete.
+[2019.01.15-15.12.12:565][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.797
+[2019.01.15-15.12.12:744][  0]LogCollectionManager: Loaded 0 collections in 0.014060 seconds
+[2019.01.15-15.12.12:790][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' took 0.01s
+[2019.01.15-15.12.12:790][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' took 0.01s
+[2019.01.15-15.12.12:790][  0]LogFileCache: Scanning file cache for directory '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' took 0.01s
+[2019.01.15-15.12.12:790][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.15-15.12.12:805][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2452 classes and 558 folders.
+[2019.01.15-15.12.12:813][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.15-15.12.12:893][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.15-15.12.12:899][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.15-15.12.12:955][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.15-15.12.12:958][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.15-15.12.12:964][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.15-15.12.13:061][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.01.15-15.12.13:204][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.15-15.12.13:204][  0]LogLoad: (Engine Initialization) Total time: 28.24 seconds
+[2019.01.15-15.12.13:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.15-15.12.13:560][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:560][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/', and we were unable to create a new request.
+[2019.01.15-15.12.13:560][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:561][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:561][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:561][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:561][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Collections/', and we were unable to create a new request.
+[2019.01.15-15.12.13:561][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:562][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Developers/1800915/Collections/', and we were unable to create a new request.
+[2019.01.15-15.12.13:562][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.01.15-15.12.13:563][  0]LogDirectoryWatcher: A directory notification failed for '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Content/Collections/', and we were unable to create a new request.
+[2019.01.15-15.12.13:570][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.15-15.12.13:888][  1]LogAssetRegistry: Asset discovery search completed in 15.5150 seconds
+[2019.01.15-15.12.13:890][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.15-15.12.13:890][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.01.15-15.13.01:985][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.13.02:093][385]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.13.02:130][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.13.02:130][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.13.02:131][385]PIE: New page: PIE session: ThirdPersonExampleMap (15 Jan 2019 15:13:02)
+[2019.01.15-15.13.02:131][385]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.15-15.13.02:154][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023370s)
+[2019.01.15-15.13.02:155][385]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.15-15.13.02:156][385]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2019.01.15-15.13.02:156][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024632s)
+[2019.01.15-15.13.02:174][385]LogInit: XAudio2 using 'DELL U2715H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-15.13.02:183][385]LogInit: FAudioDevice initialized.
+[2019.01.15-15.13.04:039][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5ab7ff200, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.13.04:359][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5da460d80, Size=4, Default__Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.15-15.13.04:483][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5e8c1b3d0, Size=80, Default__Weapon_Base_C Function /Game/AnimStarterPack/Weapon/DC-15A/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2019.01.15-15.13.04:496][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5ab7e4e00, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.15-15.13.05:260][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5da460d80, Size=4
+[2019.01.15-15.13.05:260][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc1d3eb0, Size=4, Default__Projectile_Base_C Function /Engine/Transient.REINST_Projectile_Base_C_5:ExecuteUbergraph_Projectile_Base
+[2019.01.15-15.13.05:262][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5ab7e4e00, Size=304
+[2019.01.15-15.13.05:262][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5ab715580, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Engine/Transient.REINST_UE4ASP_HeroTPP_AnimBlueprint_C_0:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.15-15.13.05:262][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5e8c1b3d0, Size=80
+[2019.01.15-15.13.05:262][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5ab639ad0, Size=80, Default__Weapon_Base_C Function /Engine/Transient.REINST_Weapon_Base_C_6:ExecuteUbergraph_Weapon_Base
+[2019.01.15-15.13.05:263][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5ab7ff200, Size=1104
+[2019.01.15-15.13.05:263][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc1c3200, Size=1104, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_7:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.13.05:306][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc1d2610, Size=4, Default__Projectile_Base_C Function /Game/AnimStarterPack/Weapon/Projectile_Base.Projectile_Base_C:ExecuteUbergraph_Projectile_Base
+[2019.01.15-15.13.05:309][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc08f380, Size=304, Default__UE4ASP_HeroTPP_AnimBlueprint_C Function /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:ExecuteUbergraph_UE4ASP_HeroTPP_AnimBlueprint
+[2019.01.15-15.13.05:311][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc010590, Size=80, Default__Weapon_Base_C Function /Game/AnimStarterPack/Weapon/DC-15A/Weapon_Base.Weapon_Base_C:ExecuteUbergraph_Weapon_Base
+[2019.01.15-15.13.05:314][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bc025d00, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.13.05:484][385]LogSkeletalMesh: Skeletal Mesh found in DDC [1.641900ms] /Game/AnimStarterPack/Weapon/DC-15A/DC-15A_UE4.DC-15A_UE4
+[2019.01.15-15.13.05:489][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Up.Aim_Right_Up
+[2019.01.15-15.13.05:489][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Up.Aim_Right_Up) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:545][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Down.Aim_Right_Down
+[2019.01.15-15.13.05:545][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Hip/Aim_Right_Down.Aim_Right_Down) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:548][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_down.Ironsight_left_down
+[2019.01.15-15.13.05:548][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_down.Ironsight_left_down) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:548][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_up.Ironsight_left_up
+[2019.01.15-15.13.05:549][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_left_up.Ironsight_left_up) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:549][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/ironsight_Right_Up.ironsight_Right_Up
+[2019.01.15-15.13.05:549][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/ironsight_Right_Up.ironsight_Right_Up) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:550][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right.Ironsight_Right
+[2019.01.15-15.13.05:550][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right.Ironsight_Right) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:550][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right_Down.Ironsight_Right_Down
+[2019.01.15-15.13.05:551][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Right_Down.Ironsight_Right_Down) using current/default (AnimCompress_BitwiseCompressOnly_62) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:565][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center.Ironsight_Center
+[2019.01.15-15.13.05:565][385]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/AimPoses/Ironsight/Ironsight_Center.Ironsight_Center) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.01.15-15.13.05:593][385]LogSkeletalMesh: Skeletal Mesh found in DDC [4.663537ms] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.15-15.13.05:597][385]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.15-15.13.05:600][385]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.15-15.13.05
+[2019.01.15-15.13.05:600][385]LogWorld: Bringing up level for play took: 0.001138
+[2019.01.15-15.13.05:604][385]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2019.01.15-15.13.05:607][385]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.653
+[2019.01.15-15.13.05:607][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.13.05:608][385]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:648][386]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:665][387]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:673][388]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:682][389]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:690][390]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:698][391]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:707][392]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:715][393]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:723][394]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:732][395]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:740][396]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:748][397]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:757][398]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:765][399]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:773][400]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:784][401]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:792][402]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:801][403]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:811][404]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:824][405]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:832][406]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:840][407]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:849][408]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:857][409]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:865][410]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:874][411]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:882][412]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:890][413]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:899][414]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:907][415]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:915][416]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:923][417]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:932][418]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:940][419]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:949][420]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:957][421]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:966][422]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:974][423]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:982][424]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:991][425]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.05:999][426]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:007][427]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:016][428]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:024][429]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:032][430]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:041][431]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:049][432]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:057][433]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:066][434]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:074][435]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:082][436]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:091][437]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:099][438]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:107][439]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:116][440]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:124][441]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:132][442]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:141][443]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:149][444]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:157][445]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:165][446]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:174][447]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:182][448]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:190][449]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:199][450]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:207][451]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:215][452]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:224][453]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:232][454]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:240][455]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:249][456]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:257][457]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:265][458]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:274][459]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:282][460]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:290][461]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:299][462]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:307][463]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:315][464]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:324][465]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:332][466]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:340][467]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:349][468]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:357][469]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:365][470]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:374][471]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:382][472]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:390][473]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:401][474]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:412][475]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:420][476]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:429][477]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:437][478]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:445][479]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:453][480]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:462][481]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:473][482]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:480][483]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:489][484]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:497][485]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:505][486]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:514][487]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:522][488]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:530][489]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:539][490]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:547][491]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:555][492]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:567][493]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:574][494]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:583][495]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:591][496]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:599][497]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:609][498]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:618][499]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:629][500]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:637][501]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:645][502]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:654][503]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:662][504]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:670][505]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:678][506]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:687][507]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:695][508]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:703][509]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:712][510]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:720][511]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:728][512]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:737][513]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:745][514]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:754][515]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:762][516]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:771][517]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:779][518]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:787][519]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:795][520]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:804][521]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:812][522]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:822][523]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:830][524]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:839][525]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:852][526]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:863][527]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:871][528]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:880][529]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:888][530]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:897][531]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:905][532]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:913][533]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:921][534]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:932][535]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:940][536]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:948][537]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:957][538]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:969][539]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:978][540]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:987][541]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.06:995][542]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:004][543]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:012][544]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:020][545]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:028][546]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:037][547]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:045][548]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:053][549]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:062][550]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:070][551]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:081][552]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:089][553]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:101][554]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:109][555]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:117][556]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:125][557]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:134][558]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:142][559]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:150][560]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:159][561]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:167][562]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:175][563]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:183][564]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:192][565]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:200][566]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:208][567]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:217][568]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:225][569]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:234][570]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:242][571]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:250][572]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:258][573]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:267][574]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:276][575]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:283][576]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:294][577]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:303][578]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:311][579]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:319][580]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:327][581]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:336][582]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:344][583]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:352][584]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:360][585]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:369][586]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:378][587]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:385][588]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:394][589]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:402][590]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:410][591]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:419][592]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:427][593]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:435][594]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:444][595]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:452][596]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:461][597]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:469][598]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:477][599]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:486][600]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:494][601]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:502][602]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:511][603]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:519][604]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:527][605]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:536][606]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:544][607]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:552][608]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:561][609]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:569][610]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:578][611]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:589][612]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:598][613]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:605][614]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:614][615]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:622][616]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:631][617]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:639][618]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:648][619]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:655][620]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:664][621]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:674][622]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:682][623]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:691][624]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:699][625]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:707][626]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:715][627]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:724][628]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:732][629]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:741][630]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:749][631]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:759][632]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:770][633]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:779][634]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:786][635]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:795][636]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:803][637]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:811][638]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:820][639]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:828][640]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:836][641]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:845][642]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:853][643]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:861][644]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:870][645]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:878][646]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:886][647]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:898][648]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:905][649]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:914][650]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:922][651]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:930][652]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:939][653]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:947][654]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:955][655]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:966][656]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:974][657]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:983][658]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.07:991][659]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:000][660]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:008][661]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:016][662]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:025][663]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:033][664]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:041][665]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:050][666]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:058][667]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:066][668]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:075][669]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:083][670]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:091][671]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:100][672]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:108][673]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:117][674]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:126][675]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:135][676]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:145][677]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:155][678]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:163][679]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:171][680]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:180][681]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:188][682]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:196][683]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:204][684]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:213][685]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:221][686]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:229][687]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:238][688]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:246][689]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:254][690]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:263][691]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:271][692]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:279][693]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:288][694]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:296][695]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:304][696]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:315][697]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:323][698]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:332][699]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:340][700]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:348][701]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:357][702]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:365][703]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:373][704]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:382][705]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:390][706]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:398][707]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:407][708]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:415][709]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:423][710]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:432][711]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:442][712]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:450][713]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:459][714]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:467][715]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:476][716]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:484][717]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:492][718]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:500][719]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:509][720]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:517][721]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:525][722]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:534][723]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:542][724]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:550][725]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:560][726]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:568][727]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:575][728]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:584][729]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:593][730]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:601][731]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:612][732]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:621][733]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:629][734]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:637][735]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:645][736]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:654][737]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:662][738]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:673][739]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:680][740]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:689][741]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:697][742]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:706][743]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:714][744]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:722][745]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:731][746]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:739][747]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:748][748]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:756][749]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:764][750]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:772][751]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:781][752]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:789][753]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:797][754]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:806][755]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:814][756]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:822][757]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:831][758]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:839][759]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:847][760]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:856][761]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:864][762]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:872][763]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:881][764]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:889][765]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:897][766]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:906][767]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:914][768]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:922][769]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:931][770]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:939][771]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:950][772]LogBlueprintUserMessages: [Ue4ASP_Character_C_0] Hello
+[2019.01.15-15.13.08:950][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.13.08:985][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.13.08:999][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5ab715580, Size=304
+[2019.01.15-15.13.09:000][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5ab639ad0, Size=80
+[2019.01.15-15.13.09:000][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5bc1d3eb0, Size=4
+[2019.01.15-15.13.09:000][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5bc1c3200, Size=1104
+[2019.01.15-15.13.09:905][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.17.09:823][557]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.15-15.17.10:186][557]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2019.01.15-15.17.10:509][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d60f3762f8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.15-15.17.10:509][557]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d60f3762f0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.01.15-15.17.11:119][557]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.15-15.17.20:262][195]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.15-15.17.29:455][800]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.01.15-15.17.29:571][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5bc025d00, Size=1104
+[2019.01.15-15.17.29:571][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5bfb45600, Size=1104, Default__Ue4ASP_Character_C Function /Engine/Transient.REINST_Ue4ASP_Character_C_29:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.17.29:583][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5b1c6c100, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.17.31:410][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.15-15.17.31:453][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.17.31:454][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.15-15.17.31:454][927]PIE: New page: PIE session: ThirdPersonExampleMap (15 Jan 2019 15:17:31)
+[2019.01.15-15.17.31:454][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.15-15.17.31:467][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013287s)
+[2019.01.15-15.17.31:468][927]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.15-15.17.31:468][927]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.01.15-15.17.31:468][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014210s)
+[2019.01.15-15.17.31:507][927]LogInit: XAudio2 using 'DELL U2715H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.15-15.17.31:516][927]LogInit: FAudioDevice initialized.
+[2019.01.15-15.17.31:551][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.15-15.17.31:554][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.15-15.17.31
+[2019.01.15-15.17.31:554][927]LogWorld: Bringing up level for play took: 0.002137
+[2019.01.15-15.17.31:559][927]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.603
+[2019.01.15-15.17.31:560][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.17.56:047][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.17.56:086][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.15-15.18.01:530][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.15-15.18.14:325][349]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.01.15-15.18.14:433][349]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d5b1c6c100, Size=1104
+[2019.01.15-15.18.14:433][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d615074100, Size=1104, Ue4ASP_Character_C_31 Function /Engine/Transient.REINST_Ue4ASP_Character_C_34:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.18.14:446][349]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d5b1c6c100, Size=1104, Default__Ue4ASP_Character_C Function /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:ExecuteUbergraph_Ue4ASP_Character
+[2019.01.15-15.22.45:421][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d615074100, Size=1104
+[2019.01.15-15.22.45:424][332]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2019.01.15-15.22.45:530][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Ue4ASP_Character] ([1] browsable assets)...
+[2019.01.15-15.22.45:555][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character]
+[2019.01.15-15.22.45:555][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Ue4ASP_Character]
+[2019.01.15-15.22.54:775][332]LogSavePackage: Save=8923.46ms
+[2019.01.15-15.22.54:775][332]LogSavePackage: Moving '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Ue4ASP_Character_Auto16ACC175D41E4F8C683840FB1B78D99FF.tmp' to '//nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto1.uasset'
+[2019.01.15-15.22.54:972][332]LogSavePackage: Display: Finished SavePackage //nua-cfss15.nua.ac.uk/home2018/1800915/Unreal Projects/InterstellaConflict/Saved/Autosaves/Game/AnimStarterPack/Ue4ASP_Character_Auto1.uasset
+[2019.01.15-15.22.54:972][332]LogFileHelpers: Auto-saving content packages took 9.546
+[2019.01.15-15.23.19:339][971]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2019.01.15-15.23.19:506][971]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '//nua-cfss15' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/DatasmithContent/', '/MediaCompositing/', '/AppleARKit/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.01.15-15.23.19:506][971]LogLinker: Warning: Can't find file '//nua-cfss15'
+[2019.01.15-15.23.19:507][971]LogWindows: Windows GetLastError: The operation completed successfully. (0)
